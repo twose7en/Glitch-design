@@ -8,7 +8,7 @@ All the things! ✨
 
 ## How this repo/Git-LFS works
 
-Just use this like any other repo and things should just work.
+Just use this like any other repo and things should just work. Except you'll have to clone the repo to get the files - don't think direct downloads work.
 
 Git Large File Storage replaces large binary files like graphics with text pointers inside Git. What this means is you won't be clogging your hard drive up with previous diffs unless you want them.
 
