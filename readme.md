@@ -18,6 +18,9 @@ cloned the repo and you cannot open the files still, delete your local copy
 of the repo and go through the Git LFS installation instructions and *then*
 clone it.
 
+> If the complete files still aren't local, try `git-lfs checkout` to populate 
+your working copy with real content from Git LFS files
+
 *What is Git LFS?* Git Large File Storage replaces large binary files
 like graphics with text pointers inside Git. What this means is you
 won't be clogging your hard drive up with previous diffs unless you want
