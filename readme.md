@@ -12,8 +12,8 @@ All the things! ✨
 
 You'll only need to do that once!
 
-Once Git LFS is installed, clone this repo and you should then be able
-to use it like any other Github repo. Direct downloads will not work. If you
+Once Git LFS is installed, clone this repo and run `git lfs fetch`.
+You should then be able to use it like any other Github repo. Direct downloads will not work. If you
 cloned the repo and you cannot open the files still, delete your local copy
 of the repo and go through the Git LFS installation instructions and *then*
 clone it.
